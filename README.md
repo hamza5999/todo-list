@@ -8,3 +8,4 @@ A sleek Flutter-based to-do list app that helps you stay organized and productiv
 ## Things learned:
 - Practiced how to avoid unnecessary builds and optimize app performance by extracting widgets
 - Sorted a list using the sort()
+- Learned about keys, their actual purpose and used them practically i.e to move along state with its widgets using keys
